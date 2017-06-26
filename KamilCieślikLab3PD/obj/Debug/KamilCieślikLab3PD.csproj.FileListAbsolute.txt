@@ -1,0 +1,24 @@
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe.config
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.pdb
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.Form1.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.Properties.Resources.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.csproj.GenerateResource.Cache
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe.config
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.exe
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe.config
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.Form1.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLab3PD\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.csproj.GenerateResource.Cache
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe.config
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.exe
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.pdb
