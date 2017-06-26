@@ -1,6 +1,6 @@
 ﻿namespace KamilCieślikLab3PD
 {
-    partial class Form1
+    partial class MainFrame
     {
         /// <summary>
         /// Wymagana zmienna projektanta.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainFrame));
             this.dataGridViewFootballStatistics = new System.Windows.Forms.DataGridView();
             this.labelFootball = new System.Windows.Forms.Label();
             this.buttonShowAllFootballers = new System.Windows.Forms.Button();
@@ -786,7 +786,7 @@
             this.buttonSearchSponsorByName.UseVisualStyleBackColor = true;
             this.buttonSearchSponsorByName.Click += new System.EventHandler(this.buttonSearchSponsorByName_Click);
             // 
-            // Form1
+            // MainFrame
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -811,7 +811,7 @@
             this.Controls.Add(this.dataGridViewFootballStatistics);
             this.Controls.Add(this.labelFootball);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "MainFrame";
             this.Text = "FootballStatistics";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewFootballStatistics)).EndInit();
             this.groupBoxFootballer.ResumeLayout(false);

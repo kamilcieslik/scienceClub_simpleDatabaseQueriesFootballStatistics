@@ -22,3 +22,9 @@ D:\Visual Studio 2015\Projects\kredek\kredek\lab3\zadanie domowe\KamilCieślikLa
 D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe.config
 D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.exe
 D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.pdb
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.exe
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\bin\Debug\KamilCieślikLab3PD.pdb
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.csprojResolveAssemblyReference.cache
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.Form1.resources
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.Properties.Resources.resources
+D:\Projects\C#\scienceClub_simpleDatabaseQueriesFootballStatistics\KamilCieślikLab3PD\obj\Debug\KamilCieślikLab3PD.csproj.GenerateResource.Cache
